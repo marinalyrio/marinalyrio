@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marinalyrio
-- 👀 I’m interested in Data Analysis, Vegetarian Cousine and Traveling.
+- 👀 I’m interested in Data Analysis, Vegetarian Cousine and Traveling around the world.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on diversity companies, data analysis projects and data visualization.
 - 📫 You can reach me through my Linkedin page: linkedin.com/in/marinalyrio/
